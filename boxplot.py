@@ -1,3 +1,4 @@
+#BOXPLOT-ДИАГРАММА
 import matplotlib.pyplot as plt
 
 # 1. Данные
